@@ -1,0 +1,11 @@
+﻿<!--
+This file contains the declaration of all the localizable strings.
+-->
+<WixLocalization xmlns="http://wixtoolset.org/schemas/v4/wxl" Culture="en-US">
+
+  <String Id="DowngradeError" Value="A newer version of [ProductName] is already installed." />
+  <String Id="ShortDirName" Value="MyApp" />
+  <String Id="LongDirName" Value="My Application" />
+  <String Id="Manufacturer" Value="My Manufacturer" />
+
+</WixLocalization>
